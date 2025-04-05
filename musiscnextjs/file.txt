@@ -1,0 +1,33 @@
+AppRouter
+pageroute -> previous 
+
+pkg.json
+
+dev : to run project on development server 
+build: for production 
+
+
+3rd party library for Styling: Aceternity
+framer motion- library
+
+if you want use any hook on client side then
+Always add 'use client'
+it will show on client side only
+
+------------------------
+Link vs a anchor tag 
+Link is a component in next.js
+Anchor tag is a html tag also causes re loading of entier page.
+
+For all the background - Aceternity library and tailwind 
+
+Navbar , SpotLight
+
+button - plugins
+
+
+-------------------------------------
+for cards background - Aceternity library and tailwind 
+background-gradient
+
+for more animation - framer motion, stickey-scroll from Aceternity
